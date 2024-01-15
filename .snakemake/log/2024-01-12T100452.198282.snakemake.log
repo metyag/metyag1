@@ -1,0 +1,12 @@
+Building DAG of jobs...
+Creating conda environment env/env.yaml...
+Downloading and installing remote packages.
+CreateCondaEnvironmentException:
+Could not create conda environment from /home/metyag/Desktop/deneme/metyag1/env/env.yaml:
+Command:
+mamba env create --quiet --file "/home/metyag/Desktop/deneme/metyag1/.snakemake/conda/cb42fbe6e647fba3d45a208e151cf6c2_.yaml" --prefix "/home/metyag/Desktop/deneme/metyag1/.snakemake/conda/cb42fbe6e647fba3d45a208e151cf6c2_"
+Output:
+
+SpecNotFound: /home/metyag/Desktop/deneme/metyag1/.snakemake/conda/cb42fbe6e647fba3d45a208e151cf6c2_.yaml is not a valid yaml file.
+
+

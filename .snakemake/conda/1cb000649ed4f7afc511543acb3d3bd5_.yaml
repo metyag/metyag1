@@ -1,0 +1,8 @@
+channels:
+- bioconda
+- conda-forge
+- nanoporetech
+- -defaults
+dependencies:
+- trnascan-se
+name: base
